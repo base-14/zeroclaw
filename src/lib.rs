@@ -71,7 +71,7 @@ pub mod routines;
 pub mod runtime;
 pub(crate) mod security;
 pub(crate) mod service;
-pub(crate) mod skills;
+pub mod skills;
 pub mod sop;
 pub mod tools;
 pub(crate) mod trust;
