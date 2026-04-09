@@ -92,7 +92,7 @@ pub(crate) mod security;
 #[cfg(feature = "agent-runtime")]
 pub(crate) mod service;
 #[cfg(feature = "agent-runtime")]
-pub(crate) mod skills;
+pub mod skills;
 #[cfg(feature = "agent-runtime")]
 pub mod sop;
 #[cfg(feature = "agent-runtime")]
